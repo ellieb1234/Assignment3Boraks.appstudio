@@ -22,11 +22,9 @@
           "!type": "External",
           "file": [
             "forms",
-            "City",
-            "City.json"
+            "cityWhile",
+            "cityWhile.json"
           ]
-<<<<<<< Updated upstream
-=======
         },
         {
           "!type": "External",
@@ -35,7 +33,14 @@
             "dogStore",
             "dogStore.json"
           ]
->>>>>>> Stashed changes
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
         }
       ],
       "configxml": null,
@@ -57,11 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-<<<<<<< Updated upstream
-      "firstform": "Form1",
-=======
-      "firstform": "City",
->>>>>>> Stashed changes
+      "firstform": "cityWhile",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
