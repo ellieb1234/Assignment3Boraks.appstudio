@@ -1,4 +1,4 @@
-let cities=[]
+/*let cities=[]
 let i=0
 let city=prompt("Enter a city, if you want to end the program type STOP")
 
@@ -10,4 +10,4 @@ while(city!='STOP') {
 while (i<cities.length){
   console.log(cities[i].toLowerCase())
   i++
-}
+}*/
