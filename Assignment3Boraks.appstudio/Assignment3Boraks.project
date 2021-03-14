@@ -38,13 +38,8 @@
           "!type": "External",
           "file": [
             "forms",
-<<<<<<< Updated upstream
-            "Form1",
-            "Form1.json"
-=======
             "forReversedStates",
             "forReversedStates.json"
->>>>>>> Stashed changes
           ]
         }
       ],
@@ -67,11 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-<<<<<<< Updated upstream
-      "firstform": "cityWhile",
-=======
       "firstform": "forReversedStates",
->>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
